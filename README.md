@@ -1,1 +1,1 @@
-# PM-Project
+# Binary Image Classifier
